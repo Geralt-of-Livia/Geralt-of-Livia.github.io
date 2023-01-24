@@ -4,6 +4,8 @@ body {
   justify-content: center;
   height:100vh;
   background-color: #073b4c;
+  width:80%;
+margin:0 auto;
 }
 
 .birthdayCard {
